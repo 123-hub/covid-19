@@ -1,0 +1,121 @@
+
+h1 {
+  text-align: center;
+  font-size: 2.4rem;
+  color:#2a3d66;
+  padding:  80px 0;
+  font-family: 'Merriweather', serif;
+}
+h2{
+
+    text-align: center;
+    font-size: 1.8rem;
+
+    color:#2a3d66;
+    font-family: 'Montserrat', sans-serif;
+
+}
+p{
+  text-align: center;
+  font-size: 1.8rem;
+  padding: 100px 200px;
+
+  color:#2a3d66;
+  font-family: 'Montserrat', sans-serif;
+}
+
+ .input1{
+   padding-top: 150px;
+   text-align: center;
+ }
+ .cover-image{
+   text-align: right;
+   width: 40%;
+  margin-left: 40px;
+ }
+.image-class{
+text-align: center;
+padding: 50px;
+background-color:#2a3d66;
+}
+
+
+
+.image-bg{
+  text-align: center;
+  padding: 100px;
+  background-color:#2a3d66;
+
+}
+.guideline{
+  text-align: center;
+  padding: 50px;
+  background-color: #e7dfd5;
+
+}
+.guideline-img{
+  text-align: center;
+  padding: 100px;
+  background-color: #e7dfd5;
+
+}
+
+.clipart{
+  max-width: 30%;
+  text-align: center;
+  padding: 50px;
+  margin: auto;
+  background-color:#2a3d66;
+}
+.banner{
+  text-align: center;
+    background-color:#2a3d66;
+}
+.mask{
+  height: auto;
+  max-width: 50%;
+  vertical-align: middle;
+  border-style: none;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-right: :50px;
+  text-align: right;
+  position: relative;
+  left: 450px;
+
+
+
+}
+.navbar-nav{
+  position: relative;
+  left: 200px;
+}
+.embleme{
+  background-color: #e7dfd5;
+  text-align: center;
+}
+.picture{
+  max-width: 30%;
+  text-align: center;
+  padding: 50px;
+  margin: auto;
+  background-color:#e7dfd5;
+}
+.loading-wrap{
+  display: none;
+}
+.guideline-image{
+  width: 20%;
+  padding: 10px;
+  margin: 10px;
+}
+.guideline-left{
+  float: left;
+  bottom: 450px;
+  margin-right: 30px;
+}
+.guideline-right{
+  float: right;
+  bottom: 250px;
+}
+tr:nth-child(even) {background-color: #e7dfd5;}
